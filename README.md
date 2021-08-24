@@ -1,0 +1,2 @@
+# python_zero_to_hero_assignment_2
+assignment_2_character_counter
